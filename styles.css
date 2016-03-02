@@ -1,6 +1,6 @@
 p {
 	font-family:sans-serif;
-	color:#0000FF;
+	color:#000000;
 }
 #awesomeText {
 	font-family: 'Times New Roman', 'Georgia', 'Serif';
@@ -8,3 +8,4 @@ p {
 .soft {color:#a8a8a8;}
 .center {text-align: center;}
 .container {margin: 0 auto;}
+.deep {background-color: #c8c8c8;}
